@@ -1,7 +1,7 @@
 # 🌒 Low-Light Photo Enhancement
 
 **Graduation Project — B.Sc. Computer Science (Class of 2018)**  
-**Author:** Khaled
+**Author:** ghostframe96
 
 Most photos of abandoned places are taken in terrible light: dark corridors, tiny windows, no flash allowed.
 This project brightens underexposed photos automatically **without** blowing out the highlights, using
@@ -30,3 +30,7 @@ python enhance.py dark_photo.jpg enhanced.jpg --clip 3.0 --grid 8
 ## Notes
 
 Tested on low-light photos I took myself inside old buildings around the city.
+
+---
+
+*This was the project that made me realize I cared more about the photos than the code.* 📷
